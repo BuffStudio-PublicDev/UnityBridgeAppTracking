@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  test
+
+  Created by Zeyang Li on 6/6/17.
+  Copyright © 2017 Zeyang Li. All rights reserved.
+*/
+CFBundleDisplayName = "應用名稱";
+CFBundleName = "應用名稱";
+NSUserTrackingUsageDescription = "這是NSUserTrackingUsageDescription的測試。";

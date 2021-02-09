@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  Unity-iPhone
+
+  Created by 버프스튜디오 on 2021/02/04.
+  
+*/
+CFBundleDisplayName = "한글앱이름";
+CFBundleName = "한글앱이름";
+NSUserTrackingUsageDescription = "이것은 NSUserTrackingUsageDescription 테스트입니다.";
