@@ -35,7 +35,7 @@ Assets/03.Prefebs/AppTrackingAuthorization.prefab
 ```
 Assets/02.Scripts/AppTrackingTransparency/AppTrackingAuthorization.cs
 ```
-- Request App Trackin Authorization
+- Request App Tracking Authorization
 ```
 AppTrackingTransparency.RequestAppTrackingAuthorization();
 ```
@@ -48,6 +48,12 @@ public void OnCallBackAuthorizationForNoneIOS(AppTrackingTransparency.Authorizat
 AppTrackingTransparency.status
 ```
 5. Build Unity Xcode Project and Build Xcode and Test!
+
+## Sample App Screen Shot
+| 1. notDetermined Status  | 2. Request App Tracking Authorization | 3. Allow | 4. Deny  |
+| ------------ | ---------- | ------ |------ |
+| ![notDetermined Status](https://github.com/BuffStudio-PublicDev/UnityBridgeAppTracking/blob/main/SampleScreenShot/Image01.png) |![Request App Tracking Authorization](https://github.com/BuffStudio-PublicDev/UnityBridgeAppTracking/blob/main/SampleScreenShot/Image02.png)| ![Allow](https://github.com/BuffStudio-PublicDev/UnityBridgeAppTracking/blob/main/SampleScreenShot/Image03.png)  |![Deny](https://github.com/BuffStudio-PublicDev/UnityBridgeAppTracking/blob/main/SampleScreenShot/Image04.png)|
+
 
 ## This UnityBridgeAppTracking use UnityAppNameLocalizationForIOS
 
