@@ -5,6 +5,8 @@ iOS 14 App Tracking Transparency Bridge For Unity
 | 14.4 or less | Do not this UnityBridgeAppTracking, because iOS Advertising Identifier is OK. |
 | 14.5 or more | iOS Advertising Identifier is all zero in default. Do this UnityBridgeAppTracking, If User allow App Tracking Authorization, iOS Advertising Identifier is OK. But if User deny, iOS Advertising Identifier is all zero. User can switch on in Setting - Your App - App Tracking Authorization. |
 
+(from https://developer.apple.com/documentation/adsupport/asidentifiermanager/1614151-advertisingidentifier?language=objc)
+
 ## Build Environment
 
 Unity 2018.x / Unity 2019.x
