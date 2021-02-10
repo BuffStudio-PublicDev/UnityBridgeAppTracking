@@ -58,6 +58,9 @@ AppTrackingTransparency.status
 | ------------ | ---------- | ------ |------ |
 | ![notDetermined Status](https://github.com/BuffStudio-PublicDev/UnityBridgeAppTracking/blob/main/SampleScreenShot/Image01.png) |![Request App Tracking Authorization](https://github.com/BuffStudio-PublicDev/UnityBridgeAppTracking/blob/main/SampleScreenShot/Image02.png)| ![Allow](https://github.com/BuffStudio-PublicDev/UnityBridgeAppTracking/blob/main/SampleScreenShot/Image03.png)  |![Deny](https://github.com/BuffStudio-PublicDev/UnityBridgeAppTracking/blob/main/SampleScreenShot/Image04.png)|
 
+| 1. App Setting App Tracking Authorization Off  | 2. Switch on in App Tracking Authorization | 3. App Setting App Tracking Authorization On |
+| ------------ | ---------- | ------ |
+| ![](https://github.com/BuffStudio-PublicDev/UnityBridgeAppTracking/blob/main/SampleScreenShot/Image05.png) | ![](https://github.com/BuffStudio-PublicDev/UnityBridgeAppTracking/blob/main/SampleScreenShot/Image06.png) | ![](https://github.com/BuffStudio-PublicDev/UnityBridgeAppTracking/blob/main/SampleScreenShot/Image07.png) |
 
 ## This UnityBridgeAppTracking use UnityAppNameLocalizationForIOS
 
