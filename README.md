@@ -14,11 +14,12 @@ Unity 2018.x / Unity 2019.x
 Xcode 12.3
 
 ## How to Use
-1. Modify your NSUserTrackingUsageDescription in NSUserTrackingUsageDescription.txt
+1. Modify your NSUserTrackingUsageDescription in NSUserTrackingUsageDescription.txt and Add SKAdNetworks to SKAdNetworkItems.plist
 ```
 Assets/10.Tools/AppTrackingTransparency/Editor/NSUserTrackingUsageDescription.txt
+Assets/10.Tools/AppTrackingTransparency/Editor/SKAdNetworkItems.plist
 ```
-So, Unity PostprocessBuildScript insert NSUserTrackingUsageDescription to Info.plist.
+So, Unity PostprocessBuildScript insert NSUserTrackingUsageDescription and SKAdNetworkItems to Info.plist.
 
 2. Modify Multi Language NSUserTrackingUsageDescription And App Name.
 Examples to Base, Korean, Chinese(Simple), Chinese(Traditional), English, Japanese
