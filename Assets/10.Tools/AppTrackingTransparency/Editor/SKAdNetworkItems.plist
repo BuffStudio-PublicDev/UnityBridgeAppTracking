@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>SKAdNetworkItems</key>
+<array>
+  <dict>
+	<!--  AdMob  -->
+	<key>SKAdNetworkIdentifier</key>
+	<string>cstr6suwn9.skadnetwork</string>
+  </dict>
+  <dict>
+	<!--  Facebook Audience  -->
+	<key>SKAdNetworkIdentifier</key>
+	<string>v9wttpbfk9.skadnetwork</string>
+  </dict>
+  <dict>
+	<!--  UntiyAds  -->
+	<key>SKAdNetworkIdentifier</key>
+	<string>4DZT52R2T5.skadnetwork</string>
+  </dict>
+</array>
+</dict>
+</plist>
